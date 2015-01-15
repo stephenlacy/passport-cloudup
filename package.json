@@ -8,9 +8,9 @@
     "passport-oauth2": "^1.1.2"
   },
   "devDependencies": {
-    "mocha": "^1.20.1",
-    "chai": "^1.9.1"
-  },  
+    "chai": "^1.10.0",
+    "mocha": "^1.21.5"
+  },
   "main": "index.js",
   "directories": {
     "example": "examples",
