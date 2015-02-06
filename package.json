@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "chai": "^1.10.0",
-    "mocha": "^1.21.5"
+    "mocha": "^2.1.0"
   },
   "main": "index.js",
   "directories": {
