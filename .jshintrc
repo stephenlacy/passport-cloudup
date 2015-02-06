@@ -13,5 +13,6 @@
   "quotmark": "single",
   "unused": false,
   "trailing": true,
-  "laxcomma": true
+  "laxcomma": true,
+  "mocha": true
 }
