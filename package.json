@@ -1,7 +1,7 @@
 {
   "name": "passport-cloudup",
   "description": "Cloudup authentication for Passport (http://passportjs.org)",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "Steve Lacy <me@slacy.me> (https://slacy.me)",
   "homepage": "https://github.com/stevelacy/passport-cloudup",
   "dependencies": {
